@@ -49,7 +49,7 @@ A complete implementation of Hibernate JPA Association Mappings with JPQL querie
 ### 👩‍💻 Author
 **Aspari Anitha**
 - **GitHub:** [github.com/asparianitha](https://github.com/asparianitha)
-- **LinkedIn:** [Aspari Anitha](https://www.linkedin.com/in/aspari-anitha/)
+- **LinkedIn:** [Aspari Anitha](https://www.linkedin.com/in/aspari-anitha-57559640a)
 - **Location:** Bangalore, India
 - **Looking for:** Java Developer / Java Full Stack Developer Roles
 
